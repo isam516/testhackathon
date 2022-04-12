@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Sheffield Hackathon",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "mainClass": "org.bcs.Hackathon",
+      "projectName": "sheffield-hackathon",
+      "args": ""
+    }
+  ]
+}
